@@ -1,0 +1,19 @@
+.header-modal-content{
+    color: rgba(0,0,0,0.6);
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                     0px -5px 35px rgba(255,255,255,0.3);
+    text-align: center;
+}
+
+.container-header{
+    display: inline;
+    font-size: 100px;
+    color: #0f45c7;
+    font-weight: 750;
+    margin: 0 0 0 30px;
+    font-family: 'LabGrotesque', sans-serif;
+
+}
+.breadcrumb{
+    margin-top: 10px ;
+}
